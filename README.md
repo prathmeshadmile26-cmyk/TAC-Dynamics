@@ -1,5 +1,15 @@
-# TAC-Dynamics
+## Project Description
+
 AIoT-based predictive maintenance and digital twin system for industrial induction motors using Arduino UNO Q, multi-sensor monitoring, real-time visualization, and VFD-based adaptive control.
+
+## Team Members
+
+| Name | Role / Contribution |
+|---|---|
+| Dr. Rajanikant A. Metri | Control Systems & Integration |
+| Mr. Prathmesh Admile | AI & Digital Twin Modeling |
+| Prof. Sachin S. Kumbhar | Embedded Systems & Communication |
+| Dr. Chandrakant L. Bhattar | Hardware & Data Acquisition |
 
 ## System Flowchart
 
